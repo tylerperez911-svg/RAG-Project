@@ -1,0 +1,1 @@
+Docker Compose allows multiple services to run together as part of one application. Services can communicate with each other using their service names on the Docker Compose network.
